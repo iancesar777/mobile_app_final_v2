@@ -1,0 +1,301 @@
+[{
+	"id": 1,
+	"question": "What is the main ingredient in peanut butter?",
+	"options": ["Peanuts", "Apples", "Carrots", "Bananas"],
+	"answer": "Peanuts"
+  },
+  {
+	"id": 2,
+	"question": "Which fruit is yellow and often used to make lemonade?",
+	"options": ["Apple", "Lemon", "Orange", "Grapes"],
+	"answer": "Lemon"
+  },
+  {
+	"id": 3,
+	"question": "What is the main ingredient in spaghetti?",
+	"options": ["Rice", "Noodles", "Bread", "Potato"],
+	"answer": "Noodles"
+  },
+  {
+	"id": 4,
+	"question": "Which food is made from mashed potatoes and often served with gravy?",
+	"options": ["Fries", "Burgers", "Mashed potatoes", "Salad"],
+	"answer": "Mashed potatoes"
+  },
+  {
+	"id": 5,
+	"question": "What is the main ingredient in a cheeseburger?",
+	"options": ["Cheese", "Bread", "Chicken", "Beef patty"],
+	"answer": "Beef patty"
+  },
+  {
+	"id": 6,
+	"question": "Which fruit is yellow and often used to make banana bread?",
+	"options": ["Apple", "Banana", "Orange", "Grapes"],
+	"answer": "Banana"
+  },
+  {
+	"id": 7,
+	"question": "What is the main ingredient in a ham and cheese sandwich?",
+	"options": ["Ham", "Cheese", "Lettuce", "Tomato"],
+	"answer": "Ham"
+  },
+  {
+	"id": 8,
+	"question": "Which food is made from milk and often comes in different flavors like chocolate and strawberry?",
+	"options": ["Ice cream", "Pizza", "French fries", "Pancakes"],
+	"answer": "Ice cream"
+  },
+  {
+	"id": 9,
+	"question": "What is the main ingredient in spaghetti and meatballs?",
+	"options": ["Spaghetti", "Rice", "Noodles", "Potatoes"],
+	"answer": "Spaghetti"
+  },
+  {
+	"id": 10,
+	"question": "Which food is made from ground chickpeas and often served in a pita pocket?",
+	"options": ["Hummus", "Falafel", "Tofu", "Quinoa"],
+	"answer": "Falafel"
+  },
+  {
+	"id": 11,
+	"question": "What is the main ingredient in a turkey sandwich?",
+	"options": ["Turkey", "Lettuce", "Tomato", "Mayonnaise"],
+	"answer": "Turkey"
+  },
+  {
+	"id": 12,
+	"question": "Which fruit is green and often used to make guacamole?",
+	"options": ["Apple", "Lemon", "Avocado", "Kiwi"],
+	"answer": "Avocado"
+  },
+  {
+	"id": 13,
+	"question": "What is the main ingredient in a grilled cheese sandwich?",
+	"options": ["Cheese", "Bread", "Ham", "Turkey"],
+	"answer": "Cheese"
+  },
+  {
+	"id": 14,
+	"question": "Which food is made from flour, water, and yeast, and often comes in different shapes like circles and squares?",
+	"options": ["Bread", "Pasta", "Rice", "Potatoes"],
+	"answer": "Bread"
+  },
+  {
+	"id": 15,
+	"question": "What is the main ingredient in a pepperoni pizza?",
+	"options": ["Pepperoni", "Mushrooms", "Tomato sauce", "Basil"],
+	"answer": "Pepperoni"
+  },
+  {
+	"id": 16,
+	"question": "Which food is made from ground beef and often served in a bun with toppings like ketchup and mustard?",
+	"options": ["Hot dog", "Taco", "Burrito", "Sushi"],
+	"answer": "Hot dog"
+  },
+  {
+	"id": 17,
+	"question": "What is the main ingredient in a Caesar salad?",
+	"options": ["Lettuce", "Tomato", "Chicken", "Croutons"],
+	"answer": "Lettuce"
+  },
+  {
+	"id": 18,
+	"question": "Which fruit is orange and often used to make orange juice?",
+	"options": ["Apple", "Banana", "Orange", "Grapes"],
+	"answer": "Orange"
+  },
+  {
+	"id": 19,
+	"question": "What is the main ingredient in mashed potatoes?",
+	"options": ["Potatoes", "Rice", "Pasta", "Bread"],
+	"answer": "Potatoes"
+  },
+  {
+	"id": 20,
+	"question": "Which food is made from rice and often served with vegetables and protein like chicken or shrimp?",
+	"options": ["Pizza", "Sushi", "Stir-fry", "Burger"],
+	"answer": "Stir-fry"
+  },
+  {
+	"id": 21,
+	"question": "What is the main ingredient in a fruit salad?",
+	"options": ["Lettuce", "Tomato", "Fruit", "Croutons"],
+	"answer": "Fruit"
+  },
+  {
+	"id": 22,
+	"question": "Which food is made from dough, tomato sauce, cheese, and various toppings?",
+	"options": ["Sushi", "Burger", "Pizza", "Burrito"],
+	"answer": "Pizza"
+  },
+  {
+	"id": 23,
+	"question": "What is the main ingredient in a ham sandwich?",
+	"options": ["Ham", "Cheese", "Lettuce", "Tomato"],
+	"answer": "Ham"
+  },
+  {
+	"id": 24,
+	"question": "Which fruit is purple and often used to make grape jelly?",
+	"options": ["Apple", "Banana", "Orange", "Grapes"],
+	"answer": "Grapes"
+  },
+  {
+	"id": 25,
+	"question": "What is the main ingredient in a chicken noodle soup?",
+	"options": ["Chicken", "Noodles", "Tomato", "Carrots"],
+	"answer": "Chicken"
+  },
+  {
+	"id": 26,
+	"question": "Which food is made from ground beef and often served in a bun with toppings like lettuce, tomato, and cheese?",
+	"options": ["Hot dog", "Taco", "Burrito", "Burger"],
+	"answer": "Burger"
+  },
+  {
+	"id": 27,
+	"question": "What is the main ingredient in a vegetable stir-fry?",
+	"options": ["Vegetables", "Chicken", "Beef", "Pork"],
+	"answer": "Vegetables"
+  },
+  {
+	"id": 28,
+	"question": "Which food is made from rolled dough and often topped with tomato sauce, cheese, and various toppings?",
+	"options": ["Taco", "Burrito", "Pizza", "Sushi"],
+	"answer": "Pizza"
+  },
+  {
+	"id": 29,
+	"question": "What is the main ingredient in a tuna sandwich?",
+	"options": ["Tuna", "Ham", "Cheese", "Lettuce"],
+	"answer": "Tuna"
+  },
+  {
+	"id": 30,
+	"question": "Which fruit is red and often used to make apple pie?",
+	"options": ["Apple", "Banana", "Orange", "Grapes"],
+	"answer": "Apple"
+  },
+  {
+	"id": 31,
+	"question": "What is the main ingredient in a peanut butter and jelly sandwich?",
+	"options": ["Peanut butter", "Jelly", "Bread", "Banana"],
+	"answer": "Peanut butter"
+  },
+  {
+	"id": 32,
+	"question": "Which food is made from rice wrapped in seaweed and often filled with fish or vegetables?",
+	"options": ["Burger", "Sushi", "Pizza", "Taco"],
+	"answer": "Sushi"
+  },
+  {
+	"id": 33,
+	"question": "What is the main ingredient in a chicken salad?",
+	"options": ["Chicken", "Lettuce", "Tomato", "Croutons"],
+	"answer": "Chicken"
+  },
+  {
+	"id": 34,
+	"question": "Which fruit is yellow and often used to make banana splits?",
+	"options": ["Apple", "Banana", "Orange", "Grapes"],
+	"answer": "Banana"
+  },
+  {
+	"id": 35,
+	"question": "What is the main ingredient in a veggie burger?",
+	"options": ["Vegetables", "Chicken", "Beef", "Tofu"],
+	"answer": "Vegetables"
+  },
+  {
+	"id": 36,
+	"question": "Which food is made from flour, eggs, and milk, and often topped with syrup and butter?",
+	"options": ["Pancakes", "Waffles", "French toast", "Omelette"],
+	"answer": "Pancakes"
+  },
+  {
+	"id": 37,
+	"question": "What is the main ingredient in a tuna salad?",
+	"options": ["Tuna", "Lettuce", "Tomato", "Croutons"],
+	"answer": "Tuna"
+  },
+  {
+	"id": 38,
+	"question": "Which fruit is green and often used to make apple sauce?",
+	"options": ["Apple", "Lemon", "Avocado", "Kiwi"],
+	"answer": "Apple"
+  },
+  {
+	"id": 39,
+	"question": "What is the main ingredient in a chicken sandwich?",
+	"options": ["Chicken", "Lettuce", "Tomato", "Mayonnaise"],
+	"answer": "Chicken"
+  },
+  {
+	"id": 40,
+	"question": "Which food is made from dough, cheese, and various toppings, and often served in triangles or squares?",
+	"options": ["Pizza", "Burger", "Taco", "Sushi"],
+	"answer": "Pizza"
+  },
+  {
+	"id": 41,
+	"question": "What is the main ingredient in a cheese pizza?",
+	"options": ["Cheese", "Mushrooms", "Tomato sauce", "Basil"],
+	"answer": "Cheese"
+  },
+  {
+	"id": 42,
+	"question": "Which food is made from shredded lettuce, diced tomatoes, shredded cheese, and often topped with dressing?",
+	"options": ["Burger", "Taco", "Salad", "Burrito"],
+	"answer": "Salad"
+  },
+  {
+	"id": 43,
+	"question": "What is the main ingredient in a ham and cheese omelette?",
+	"options": ["Ham", "Cheese", "Eggs", "Bread"],
+	"answer": "Eggs"
+  },
+  {
+	"id": 44,
+	"question": "Which fruit is yellow and often used to make pineapple upside-down cake?",
+	"options": ["Apple", "Banana", "Orange", "Pineapple"],
+	"answer": "Pineapple"
+  },
+  {
+	"id": 45,
+	"question": "What is the main ingredient in a vegetable pizza?",
+	"options": ["Vegetables", "Mushrooms", "Tomato sauce", "Basil"],
+	"answer": "Vegetables"
+  },
+  {
+	"id": 46,
+	"question": "Which food is made from ground beef and often served in a shell with toppings like lettuce, cheese, and salsa?",
+	"options": ["Hot dog", "Taco", "Burrito", "Burger"],
+	"answer": "Taco"
+  },
+  {
+	"id": 47,
+	"question": "What is the main ingredient in a turkey sandwich?",
+	"options": ["Turkey", "Lettuce", "Tomato", "Mayonnaise"],
+	"answer": "Turkey"
+  },
+  {
+	"id": 48,
+	"question": "Which fruit is orange and often used to make marmalade?",
+	"options": ["Apple", "Banana", "Orange", "Grapes"],
+	"answer": "Orange"
+  },
+  {
+	"id": 49,
+	"question": "What is the main ingredient in a cheese quesadilla?",
+	"options": ["Cheese", "Tortilla", "Chicken", "Beef"],
+	"answer": "Cheese"
+  },
+  {
+	"id": 50,
+	"question": "Which food is made from ground corn and often served with butter and salt?",
+	"options": ["Bread", "Tacos", "Chips", "Popcorn"],
+	"answer": "Popcorn"
+  }
+]

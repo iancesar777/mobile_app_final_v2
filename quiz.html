@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cook Recipe with Quiz</title>
+    <link rel="stylesheet" href="quiz.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+</head>
+<header>
+    <img src="images/cooking.png">
+    <p>Quiz Game</p>
+</header>
+<div class="score">
+    <p>Score: <span id="score"></span>/10</p>
+    <p>Attempt: <span id="attempts"></span></p>
+</div>
+
+<div class="total hide">
+    <img src="images/cooking.png">
+    <div>
+        <p>Total Score</p>
+    <p><span id="total"></span>/10</p>
+    </div>
+    
+    <button id="try">Try Again!</button>
+</div>
+
+<main>
+    <p id="question"></p>
+    <p id="result" class="result"></p>
+    <ul class="quiz-option">
+        <li id="option1"></li>
+        <li id="option2"></li>
+        <li id="option3"></li>
+        <li id="option4"></li>
+    </ul>
+    <button id="check-answer">Check Answer</button>
+    <button id="refresh">Refresh</button>
+</main>
+<div class="home">
+    <a href="index.html">Home</a>
+</div>
+<script src="quiz.js"></script>
+</body>
+</html>
